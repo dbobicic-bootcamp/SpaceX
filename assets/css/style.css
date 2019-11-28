@@ -1,0 +1,77 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-weight: normal;
+  letter-spacing: 0.2px;
+  color: #f6f7f8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-image: url('https://us.123rf.com/450wm/alonastep/alonastep1807/alonastep180700146/114890700-night-sky-with-blue-stars-on-black-background-dark-astronomy-space-template-galaxy-starry-pattern-wa.jpg?ver=6');
+  background-repeat: repeat;
+
+  width: 950px;
+  margin: auto;
+}
+
+.header {
+  background: #ff9803;
+  padding: 20px 25px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo-bootcamp {
+  height: 30px;
+  width: 100px;
+  background: url('../img/logo_itbootcamp.png') no-repeat center center;
+  background-size: contain;
+}
+
+.logo-name {
+  margin: 0 0 0 14px;
+  line-height: 30px;
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+.header-logo img {
+  height: 100%;
+}
+
+#app {
+  text-align: center;
+}
+h1{
+  font-size: 30px;
+}
+img {
+  width:100px;
+  height:100px;
+  margin: 5px;
+}
+launches{
+  display: block;
+  width: 950px;
+}
+launch {
+  display: inline-block;
+  border: 2px solid white;
+  width: 31%;
+  height: 175px;
+  margin:3px;
+  padding: 5px;
+}
+
+
+
