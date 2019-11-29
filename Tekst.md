@@ -17,5 +17,11 @@ Podaci koje je potrebno prikazati su:
 + Mesto lansiranja (launch_site - > site_name)
 + Slika (links -> mission_patch)
 
+
+# Zadatak 3
+Na stranicu dodati funkcionalnost tako da je moguce filtriranje lansiranje po sledecim parametrima:
++ Na osnovu  odredjene godine lansiranja (Select)
++ Na osnovu godine lansiranja uzlazno (button)
++ Na osnovu godine lansiranja silazno (button)
 # Resurs
 [Link ka dokumentaciji](https://docs.spacexdata.com)
